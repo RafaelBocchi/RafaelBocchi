@@ -11,13 +11,9 @@
 <div align="center">  <a href="https://github.com/RafaelBocchi">  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelbocchi&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbocchi&layout=compact&langs_count=7&theme=panda"/></div>
 
 <div style="display: inline_block"><br>
-            <img align="center" alt="html5"   width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" > 
-            <img align="center" alt="csharp"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" >     
+            <img align="center" alt="html5"   width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" >     
             <img align="center" alt="css3"    width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">           
-            <img align="center" alt="JavaScript"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >     
-            <img align="center" alt="MySql"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" >          
-            <img align="center" alt="Phoyoshop"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" >
-            <img align="center" alt="Python"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" >       
+            <img align="center" alt="JavaScript"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >         
   </div>
   
  <div>
