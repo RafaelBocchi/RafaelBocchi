@@ -2,7 +2,7 @@
 ### Eu sou Rafael Bocchi estudante de programação 
 
 
-- 🐱‍🚀 Atualmente estudando na instituição Senac-SP. 
+- 🐱‍🚀 Atualmente estudando na instituição FIAP. 
 - 👤 Sempre ligado na area de T.I, principalmente na parte da programação.
 - 👨‍💻 busco um futuro como programador.
 - 🐱‍🏍 Entre nas minhas redes sociais para mais contato.
